@@ -1,0 +1,27 @@
+Download Link: https://assignmentchef.com/product/solved-solvedchapter-4-solutions
+<br>
+Q1. Write a program that prompts the user to input a number. The programshould then output the number and a message saying whether the number ispositive, negative, or zero.
+
+Q2.Write a program that prompts the user to input three numbers. Theprogram should then output the numbers in ascending order.
+
+Q3.Write a program that prompts the user to input an integer between 0 and 35 . If the number is less than or equal to 9 , the program should output the number;otherwise, it should output A for 10 , B for 11 , C for 12 . . . and Z for 35 . (Hint:Use the cast operator, static_cast&lt;char( ) , for numbers = 10 .)
+
+Q4.The statements in the following program are in incorrect order. Rearrangethe statements so that they prompt the user to input the shape type( rectangle , circle , or cylinder ) and the appropriate dimension ofthe shape. The program then outputs the following information about theshape: For a rectangle, it outputs the area and perimeter; for a circle, itoutputs the area and circumference; and for a cylinder, it outputs thevolume and surface area. After rearranging the statements, your programshould be properly indented.
+
+Q5.Suppose that the cost of sending an international fax is calculated as follows:The service charge is $ 3.00, $ .20 per page for the first 10 pages, and $ 0.10 foreach additional page. Design an algorithm that asks the user to enter thenumber of pages to be faxed. The algorithm then uses the number of pagesto be faxed to calculate the amount due.Write a program to implement the algorithm you designed in Exercise 21 ofChapter 1.
+
+Q6.In a right triangle, the square of the length of one side is equal to the sumof the squares of the lengths of the other two sides. Write a program thatprompts the user to enter the lengths of three sides of a triangle and thenoutputs a message indicating whether the triangle is a right triangle.
+
+Q7.A box of cookies can hold 24 cookies, and a container can hold 75 boxesof cookies. Write a program that prompts the user to enter the totalnumber of cookies, the number of cookies in a box, and the number ofcookie boxes in a container. The program then outputs the number ofboxes and the number of containers to ship the cookies. Note that eachbox must contain the specified number of cookies, and each containermust contain the specified number of boxes. If the last box of cookiescontains less than the number of specified cookies, you can discard it andoutput the number of leftover cookies. Similarly, if the last containercontains less than the number of specified boxes, you can discard it andoutput the number of leftover boxes.
+
+Q8.The roots of the quadratic equation ax 2 + bx + c = 0, a != 0 are given by thefollowing formula:-b +- sqt(b^2 -4ac)/2a
+
+In this formula, the term b^2 – 4ac is called the discriminant. If b^2 – 4ac = 0,then the equation has a single (repeated) root. If b^2 – 4ac 0, theequation has two real roots. If b^2 – 4ac &lt; 0, the equation has twocomplex roots. Write a program that prompts the user to input thevalue of a (the coefficient of x 2 ), b (the coefficient of x), and c (theconstant term) and outputs the type of roots of the equation. Further-more, if b 2 À 4ac ! 0, the program should output the roots of thequadratic equation. (Hint: Use the function pow from the header filecmath to calculate the square root. Chapter 3 explains how the func-tion pow is used.)
+
+Q9.Write a program that mimics a calculator. The program should take as inputtwo integers and the operation to be performed. It should then output thenumbers, the operator, and the result. (For division, if the denominator iszero, output an appropriate message.) Some sample outputs follow:3 + 4 = 713 * 5 = 65
+
+Q10. Write a program that mimics a calculator. The program should take as inputtwo integers and the operation to be performed. It should then output thenumbers, the operator, and the result. (For division, if the denominator iszero, output an appropriate message.) Some sample outputs follow:3 + 4 = 713 * 5 = 65
+
+Q11. You found an exciting summer job for five weeks. It pays, say, $15.50per hour. Suppose that the total tax you pay on your summer jobincome is 14%. After paying the taxes, you spend 10% of your netincome to buy new clothes and other accessories for the next schoolyear and 1% to buy school supplies. After buying clothes and schoolsupplies, you use 25% of the remaining money to buy savings bonds.For each dollar you spend to buy savings bonds, your parents spend$0.50 to buy additional savings bonds for you. Write a program thatprompts the user to enter the pay rate for an hour and the numberof hours you worked each week. The program then outputs thefollowing:a. Your income before and after taxes from your summer job.b. The money you spend on clothes and other accessories.c. The money you spend on school supplies.d. The money you spend to buy savings bonds.e. The money your parents spend to buy additional savings bonds foryou.Redo Exercise 9 to handle floating-point numbers. (Format your output totwo decimal places.)
+
+IF YOU NEED A SPECIFIC QUESTION SOLUTION PLEASE INBOX AND WILL SEND YOU AN ANSWER TO THE SPECIIFC QUESTION YOU REQUESTED.AS THIS IS A ZIP PROVIDING SOLN TO Chapter4 Q’s
